@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "RU7R8D3H52.finance.tradeduel.tradeduel",
+                "paths": [ "/joinnewgame/", "/enrolledgame/*"]
+            }
+        ]
+    }
+}
