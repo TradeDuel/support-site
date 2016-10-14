@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tradeduel.tradeduel",
+    "sha256_cert_fingerprints":
+    ["B1:E7:9E:DF:B1:A5:82:5D:20:24:D2:3B:02:0A:62:8E:C1:B7:02:C5:FB:EC:13:BE:98:B4:00:A9:26:07:2F:03"]
+  }
+}]
+
